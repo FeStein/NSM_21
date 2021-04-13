@@ -241,3 +241,9 @@ relaxationFactoors
 * **./0/** ist Initialverzeichnis
 
 ## Starten und Überwachen von Simulationen
+-> Generell problemspezifische Solver -> bei Bedarf  können eigene Lösungen
+implementiert werden
+
+-> `pyfoamplotwatcher logfile` zum Überwachen von Simulationen
+
+## $FOAM_UTILITIES
