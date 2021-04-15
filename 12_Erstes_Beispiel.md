@@ -15,7 +15,6 @@ cp -r $FOAM_TUTORIALS/incompressible/simpleFoam/pitzDaily/* .
 rm -rf constant/polyMesh
 
 #Netzdateien kopieren
-cp -r $FOAM_TUTORIALS/incompressible/simpleFoam/pitzDaily/* .
 cp $FOAM_UEBUNGSFILES/01_Rohrstroemung/010_RohrstrLam.msh . 
 
 #Netzgenerierung
